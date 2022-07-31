@@ -1,0 +1,28 @@
+﻿@model WebApplication2.BL.Models.DepartmentVm
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Layout/MainLayout.cshtml";
+}
+
+<h2>Update Department Information</h2>
+
+
+<form asp-action="update" asp-controller="department" class="form-group">
+
+    <div asp-validation-summary="All" class="text-danger">   </div>
+    <label class="form-control" asp-for="Name">Department Name</label>
+    <input id="Name" asp-for="Name" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <br />
+    <label class="form-control" asp-for="Code">Department Code</label>
+    <input id="Code" asp-for="Code" class="form-control" />
+    <span asp-validation-for="Code" class="text-danger"></span>
+    <br /><br />
+    <input type="submit" value="Save" class="btn btn-primary" />
+</form>
+
+@section MicrosoftValidation{
+
+    <script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

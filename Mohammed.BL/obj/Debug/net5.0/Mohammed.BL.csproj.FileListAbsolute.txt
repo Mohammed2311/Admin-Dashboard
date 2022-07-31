@@ -1,0 +1,15 @@
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\bin\Debug\net5.0\Mohammed.BL.deps.json
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\bin\Debug\net5.0\Mohammed.BL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\bin\Debug\net5.0\Mohammed.BL.pdb
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\bin\Debug\net5.0\Mohammed.DAL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\bin\Debug\net5.0\Mohammed.DAL.pdb
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\ref\Mohammed.BL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.pdb
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\Mohammed.BL.csproj.CopyComplete
+C:\Users\ccc\source\repos\Mohammed\Mohammed.BL\obj\Debug\net5.0\refint\Mohammed.BL.dll

@@ -1,0 +1,15 @@
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\bin\Debug\net5.0\Mohammed.DAL.deps.json
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\bin\Debug\net5.0\Mohammed.DAL.runtimeconfig.json
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\bin\Debug\net5.0\Mohammed.DAL.runtimeconfig.dev.json
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\bin\Debug\net5.0\Mohammed.DAL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\bin\Debug\net5.0\Mohammed.DAL.pdb
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.csproj.AssemblyReference.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.AssemblyInfoInputs.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.AssemblyInfo.cs
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\ref\Mohammed.DAL.dll
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.pdb
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\Mohammed.DAL.genruntimeconfig.cache
+C:\Users\ccc\source\repos\Mohammed\Mohammed.DAL\obj\Debug\net5.0\refint\Mohammed.DAL.dll
